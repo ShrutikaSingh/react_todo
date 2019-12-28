@@ -1,3 +1,21 @@
+### Steps:
+
+##step 1:
+  git clone https://github.com/ShrutikaSingh/react_todo.git
+##step 2:
+  Go to the project folder
+##step 3:
+   npm install
+##step 4:
+  npm start
+##step 5:
+  the app will open at http://localhost:3000/
+##step 6:
+  we can add new tasks
+##step 7:
+  we can also click on delete to delete tasks
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
