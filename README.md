@@ -1,6 +1,6 @@
 ### Steps:
 
-##step 1:
+step 1:
   git clone https://github.com/ShrutikaSingh/react_todo.git
 ##step 2:
   Go to the project folder
